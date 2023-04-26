@@ -1,0 +1,11 @@
+Summary of the analysis:
+The standardized reading and math testing scores of 39,170 students across 15 schools were statistically analyzed. An overall passing metric was also achieved, representing the percentage of students that passed both the reading and math exams with a score of 70 or higher. The results yielded allow comparisons of test performance between district and charter schools, as well as direct comparisons between schools. Further analysis was done to break down test performance based on student grade level, per student spending, and school size.
+
+
+Conclusions or comparisons from the calculations:
+
+1. District schools performed much worse in the math exam than charter schools. 93% of charter students passed the math exam, while only 66% of district students did the same. The average math score for district students was still above passing, indicating that district schools have a subset of students that are very talented in math and their exceptional scores raise the average of an otherwise struggling student body. A priority I might suggest to the school board would be to start a tutoring program in which these mathmatically-minded students tutor their peers.
+
+2. Small (<1,000 students) and medium (1,000-2,000 students) sized schools performed quite similarly on both math and reading exams. Large schools (2,000-5,000 students) performed significantly worse, particularly in math. This suggests that somewhere above a 2,000 student class size, test scores worsen. It would be interesting to see if these larger schools have larger class sizes and less individualized attention from teachers is a contributing factor. Based on those results, I might suggest that larger schools hire more teachers.
+
+3. Budgets that allow larger spending per student do not seem to result in higher testing scores. Of the four budget ranges analyzed, the smaller two yielded better overall passing percentages. I would suggest the schools with large spending per student look at how their funds are being allocated, because it might be true that even with a smaller budget, the other schools are allocating more money to the math and reading initiatives.
